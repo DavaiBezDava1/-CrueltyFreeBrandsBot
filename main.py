@@ -1,7 +1,7 @@
 import aiogram
 import asyncio
 from aiogram import Bot, Dispatcher, executor
-BOT_TOKEN = "5260259993:AAH9A8grMYehT71ouGlr1f-O5zQ7uwdIv_I"
+BOT_TOKEN = ""
 
 
 loop = asyncio.get_event_loop()
