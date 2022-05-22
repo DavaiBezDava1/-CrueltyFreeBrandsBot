@@ -1,6 +1,6 @@
 from main import bot, dp
 from aiogram.types import Message
-admin_id = 272543202
+admin_id = 
 import openpyxl
 
 async def send_to_admin(dp):
